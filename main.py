@@ -6,3 +6,4 @@ with open('Csvs/AnnualTicketSales.csv', newline='') as File:
         print(row)
 
 print("Push prueba")
+print("pull prueba")
